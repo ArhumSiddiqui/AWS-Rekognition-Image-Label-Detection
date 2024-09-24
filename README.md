@@ -1,0 +1,1 @@
+# AWS-Rekognition-Image-Label-Detection
